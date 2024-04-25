@@ -1,2 +1,2 @@
-# classes-cpp
-Exercícios de aprendizagem sobre métodos e classes em c++.
+##Exercícios sobre classes em c++ da disciplina de laboratório de programação.
+#Os enunciados de cada exercícios estão escritos no início de cada código como comentário.
